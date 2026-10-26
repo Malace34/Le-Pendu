@@ -30,11 +30,5 @@ Vous pouvez aussi ouvrir le fichier dans Thonny et cliquer sur « Run ».
 3. Si la lettre est dans le mot, elle est révélée. Sinon, vous perdez une vie et le pendu se dessine un peu plus.
 4. Vous gagnez si vous trouvez toutes les lettres, vous perdez si vous n'avez plus de vies.
 
-## Ce que j'ai appris
-
-- Les chaînes de caractères et les listes
-- Les fonctions avec paramètres et valeur de retour
-- Les boucles `while` et `for`, avec `continue`
-- La validation des saisies utilisateur
 
 #
